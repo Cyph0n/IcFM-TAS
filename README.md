@@ -1,9 +1,9 @@
-IcFM-TAS
+iTAS
 ========
 
-The code used for the transmitter and receiver of the Intelligent Car FM Traffic Alert System. 
+The code used for the transmitter and receiver of the Intelligent Traffic Alert System. 
 
-The code is provided as-is. It does work, but is quite messy and not too organized. It has been open sourced in case anyone working on something similar needs it.
+The code is provided as is. It does work, but is quite messy and not too organized. It has been open sourced in case anyone working on something similar needs it.
 
 ## How to Use
 
